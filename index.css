@@ -1,0 +1,33 @@
+.bot{
+    display: flex;
+   position: relative;
+    padding-top: 70px;
+    
+}
+.bot p{
+    border: 1px solid black;
+    padding: 3px;
+}
+.fil{
+    border: 1px solid black;
+    padding: 18px 4px;
+    border-left: none;
+ 
+    
+}
+.red{
+    color: red;
+}
+.inline{
+    display: inline;
+}
+.card img{
+    height: 300px;
+    width: 222px;
+}
+.card{
+    width: 350px;
+}
+.card-box{
+    align-items: center;
+}
